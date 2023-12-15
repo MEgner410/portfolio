@@ -1,0 +1,14 @@
+import styles from 'styledComponents';
+
+export const AppContainer = styled.div`
+text-align: center; 
+`;
+export const Heading = styled.h1`
+color: #333;
+`;
+
+export const Paragraph = styled.p`
+color: #676;
+font-size: 2.5rem;
+margin: 30px;
+`;
